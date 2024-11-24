@@ -1,0 +1,24 @@
+{
+  "name": "my-gpl-package",
+  "version": "1.0.0",
+  "description": "A sample npm package licensed under GPL-2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OfekShimko/my-gpl-package.git"
+  },
+  "keywords": [
+    "gpl",
+    "license",
+    "npm"
+  ],
+  "author": "Your Name",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/OfekShimko/my-gpl-package/issues"
+  },
+  "homepage": "https://github.com/OfekShimko/my-gpl-package#readme"
+}
